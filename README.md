@@ -42,7 +42,7 @@ It's recommended to run XploitSPY behind a reverse proxy such as [NGINX](https:/
   
   Video Tutorial for Heroku [Click Here](https://youtu.be/tFt5G19KuLY)
 
-<a href="https://heroku.com/deploy?template=https://github.com/XploitWizer/XploitSPY">
+<a href="https://heroku.com/deploy?template=https://github.com/cyberppunk/XploitSPY-New">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
